@@ -1,2 +1,2 @@
-# js-practice
+# codesandbox-js
 Created with CodeSandbox
